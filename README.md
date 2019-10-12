@@ -27,7 +27,7 @@ Memo about 3d human pose estimation, record of datasets, papers, codes.
 - :three: surreal 
   [[Project page\]](http://www.di.ens.fr/willow/research/surreal/) [[arXiv\]](https://arxiv.org/abs/1701.01370)
 
-The [code](https://github.com/htung0101/3d_smpl) for the paper: Hsiao-Yu Fish Tung, Hsiao-Wei Tung, Ersin Yumer, Katerina Fragkiadaki, [Self-supervised Learning of Motion Capture](https://arxiv.org/abs/1712.01337), NIPS2017 (Spotlight)
+   The [code](https://github.com/htung0101/3d_smpl) for the paper: Hsiao-Yu Fish Tung, Hsiao-Wei Tung, Ersin Yumer, Katerina Fragkiadaki, [Self-supervised Learning of Motion Capture](https://arxiv.org/abs/1712.01337), NIPS2017 (Spotlight)
 show how to use surreal dataset.
 
 - :two: AI challenger keypoint dataset
