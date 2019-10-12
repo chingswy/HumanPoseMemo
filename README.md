@@ -13,16 +13,16 @@ Memo about 3d human pose estimation, record of datasets, papers, codes.
 
 - :two: lsp-mpii-ordinal [[page](https://www.seas.upenn.edu/~pavlakos/projects/ordinal/)]
 
-- :three: h36m :three: [[page](http://vision.imar.ro/human3.6m/description.php)]
+- :three: h36m [[page](http://vision.imar.ro/human3.6m/description.php)]
 
-- :three: up3d :three: [[page](http://files.is.tuebingen.mpg.de/classner/up/)]
+- :three: up3d [[page](http://files.is.tuebingen.mpg.de/classner/up/)]
   
-- mpi_inf_3dhp :three:
+- :three: mpi_inf_3dhp
 
 - :three: MoSH
   [[page](http://mosh.is.tue.mpg.de/)]
 
-- MoCap [[page](http://mocap.cs.cmu.edu/)]
+- :three: MoCap [[page](http://mocap.cs.cmu.edu/)]
 
 - :three: surreal 
   [[Project page\]](http://www.di.ens.fr/willow/research/surreal/) [[arXiv\]](https://arxiv.org/abs/1701.01370)
@@ -30,8 +30,7 @@ Memo about 3d human pose estimation, record of datasets, papers, codes.
 The [code](https://github.com/htung0101/3d_smpl) for the paper: Hsiao-Yu Fish Tung, Hsiao-Wei Tung, Ersin Yumer, Katerina Fragkiadaki, [Self-supervised Learning of Motion Capture](https://arxiv.org/abs/1712.01337), NIPS2017 (Spotlight)
 show how to use surreal dataset.
 
-- AI challenger keypoint dataset
-:two:
+- :two: AI challenger keypoint dataset
 [[web page](https://challenger.ai/dataset/keypoint)]
 [[paper](https://arxiv.org/abs/1711.06475)]
 
