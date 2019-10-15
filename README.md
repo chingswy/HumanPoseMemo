@@ -36,5 +36,9 @@ show how to use surreal dataset.
 
 
 ## Papers
+[Monocular human pose estimation](./paper/mono.md)
+[Multi-view human pose estimation](./paper/multi.md)
+[Other](./paper/other.md)
+
 
 ## Codes
