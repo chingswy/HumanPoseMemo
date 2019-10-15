@@ -42,3 +42,5 @@ show how to use surreal dataset.
 
 
 ## Codes
+
+[Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://github.com/MohameHassan/prox)
