@@ -3,3 +3,8 @@
 2. [DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare](https://arxiv.org/pdf/1910.00116.pdf): pixel-> IUV -> pose and shape
 
 3. [Dense Intrinsic Appearance Flow for Human Pose Transfer](http://mmlab.ie.cuhk.edu.hk/projects/pose-transfer/):[code](https://github.com/ly015/intrinsic_flow) use SMPL model to generate pose transfer. 根据图片做了vertex matching，计算了flow与visibility
+
+4. [Consensus-based Optimization for 3D Human Pose Estimation in CameraCoordinates](https://arxiv.org/pdf/1911.09245.pdf): estimate absolute 3D human pose, optimize camera parameters.
+
+
+
