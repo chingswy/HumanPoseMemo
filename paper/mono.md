@@ -6,5 +6,5 @@
 
 4. [Consensus-based Optimization for 3D Human Pose Estimation in CameraCoordinates](https://arxiv.org/pdf/1911.09245.pdf): estimate absolute 3D human pose, optimize camera parameters.
 
-
+5. [Detailed Human Shape Estimation from a Single Imageby Hierarchical Mesh Deformation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Detailed_Human_Shape_Estimation_From_a_Single_Image_by_Hierarchical_CVPR_2019_paper.pdf): [code](https://github.com/zhuhao-nju/hmd): use deformation to solve a more detailed human model.
 
