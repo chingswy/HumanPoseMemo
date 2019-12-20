@@ -1,43 +1,32 @@
 # HumanPoseMemo
-Memo about 3d human pose estimation, record of datasets, papers, codes.
+Memo about 3D human pose estimation, record of datasets, papers, codes.
 
 ## Datasets
 
-- :two: Leeds Sports Pose Dataset  [[page](http://sam.johnson.io/research/lsp.html)]
+### [2D datasets](./datasets/2d.md) 
 
-- :two: Leeds Sports Pose Extended Training Dataset [[page](http://sam.johnson.io/research/lspet.html)] 
+![1576828687165](README.assets/1576828687165.png)
 
-- :two: :couple:  coco  [[page](http://cocodataset.org/#home)]
+### [3D datasets](./datasets/3d.md)
 
-- :two: MPII Human Pose Dataset [[page](http://human-pose.mpi-inf.mpg.de/)]
+![1576828968571](README.assets/1576828968571.png)
 
-- :two: lsp-mpii-ordinal [[page](https://www.seas.upenn.edu/~pavlakos/projects/ordinal/)]
 
-- :three: h36m [[page](http://vision.imar.ro/human3.6m/description.php)]
 
-- :three: up3d [[page](http://files.is.tuebingen.mpg.de/classner/up/)]
-  
-- :three: mpi_inf_3dhp
+### [SMPL datasets](./datasets/smpl.md) 
 
-- :three: MoSH
-  [[page](http://mosh.is.tue.mpg.de/)]
-
-- :three: MoCap [[page](http://mocap.cs.cmu.edu/)]
-
-- :three: surreal 
-  [[Project page\]](http://www.di.ens.fr/willow/research/surreal/) [[arXiv\]](https://arxiv.org/abs/1701.01370)
-
-   The [code](https://github.com/htung0101/3d_smpl) for the paper: Hsiao-Yu Fish Tung, Hsiao-Wei Tung, Ersin Yumer, Katerina Fragkiadaki, [Self-supervised Learning of Motion Capture](https://arxiv.org/abs/1712.01337), NIPS2017 (Spotlight)
-show how to use surreal dataset.
-
-- :two: AI challenger keypoint dataset
-[[web page](https://challenger.ai/dataset/keypoint)]
-[[paper](https://arxiv.org/abs/1711.06475)]
+![1576828885408](README.assets/1576828885408.png)
 
 
 ## Papers
 - [Monocular human pose estimation](./paper/mono.md)
+
+![1576829076122](README.assets/1576829076122.png)
+
 - [Multi-view human pose estimation](./paper/multi.md)
+
+![1576829180577](README.assets/1576829180577.png)
+
 - [Other](./paper/other.md)
 
 
