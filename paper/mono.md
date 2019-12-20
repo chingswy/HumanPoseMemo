@@ -8,3 +8,6 @@
 
 5. [Detailed Human Shape Estimation from a Single Imageby Hierarchical Mesh Deformation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Detailed_Human_Shape_Estimation_From_a_Single_Image_by_Hierarchical_CVPR_2019_paper.pdf): [code](https://github.com/zhuhao-nju/hmd): use deformation to solve a more detailed human model.
 
+6. [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/pdf/1912.05656.pdf) [[code](https://github.com/mkocabas/VIBE)]: use GRU for motion discriminatior
+
+
