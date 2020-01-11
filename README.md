@@ -31,6 +31,8 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
     <li> <a href="http://vision.imar.ro/human3.6m/description.php">Human3.6M</a> </li>
     <li> <a href="http://files.is.tuebingen.mpg.de/classner/up/">Unit the People</a> </li>
     <li> <a href="http://files.is.tuebingen.mpg.de/classner/up/">mpi_inf_3dhp</a> </li>
+    <li> <a href="http://domedb.perception.cs.cmu.edu/">CMU Panoptic Dataset</a> </li>
+    
   </ol>
 </details>
 
@@ -102,7 +104,7 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   </ol>
 </details>
 
-### Multi-human pose estimation
+### Multi-person pose estimation
 <details>
   <summary><b>2020</b></summary>
   <ol>
@@ -143,5 +145,53 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
 </details>
 
 ## Codes
+<details>
+  <summary><b>Monocular</b></summary>
+  <ol>
+    <li> <a href="https://github.com/mkocabas/VIBE">VIBE: Video Inference for Human Body Pose and Shape Estimation</a> </li>
+    <li> <a href="https://github.com/akanazawa/human_dynamics">Learning 3D Human Dynamics from Video</a> </li>
+    <li> <a href="https://github.com/geopavlakos/TexturePose">TexturePose: Supervising Human Mesh Estimation with Texture Consistency</a> </li>
+    <li> <a href="https://github.com/nkolot/SPIN">ICCV, 19. SPIN - SMPL oPtimization IN the loop</a> </li>
+    <li> <a href="https://github.com/penincillin/DCT_ICCV-2019">ICCV, 19. Delving Deep Into Hybrid Annotations for 3D Human Recovery in the Wild</a> </li>
+    
+  </ol>
+</details>
+
+<details>
+  <summary><b>Multi-view</b></summary>
+  <ol>
+    <li> <a href="https://github.com/williamljb/HumanMultiView">Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images</a> </li>
+    <li> <a href="https://github.com/karfly/learnable-triangulation-pytorch">ICCV, 19 Learnable Triangulation of Human Pose</a> </li>
+    
+  </ol>
+</details>
+
+<details>
+  <summary><b>Appearance</b></summary>
+  <ol>
+    <li> <a href="https://github.com/ly015/intrinsic_flow">CVPR, 19. Dense Intrinsic Appearance Flow for Human Pose Transfer</a> </li>
+    <li> <a href="https://github.com/svip-lab/impersonator">ICCV, 19. Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis</a> </li>
+    
+  </ol>
+</details>
+
+<details>
+  <summary><b>Other</b></summary>
+  <ol>
+    <li> <a href="https://github.com/vchoutas/smplx">SMPL-X: A new joint 3D model of the human body, face and hands together</a> </li>
+    <li> <a href="https://github.com/gulvarol/surreal">CVPR, 17. Learning from Synthetic Humans (SURREAL)</a> </li>
+    <li> <a href="https://github.com/anuragranj/humanflow">Learning Human Optical Flow</a> </li>
+    <li> <a href="https://github.com/MohameHassan/prox">ICCV, 19. Resolving 3D Human Pose Ambiguities with 3D Scene Constraints</a> </li>
+    
+  </ol>
+</details>
+
+<details>
+  <summary><b>Other</b></summary>
+  <p>
+  - [Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://github.com/MohameHassan/prox)
+  - [Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://github.com/MohameHassan/prox)
+  </p>
+</details>
 
 [Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://github.com/MohameHassan/prox)
