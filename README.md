@@ -176,7 +176,7 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   <summary><b>Multi-view</b></summary>
   <p>
 
-  - [Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images](https://github.com/williamljb/HumanMultiView)
+  - [ICCV, 19. Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images](https://github.com/williamljb/HumanMultiView)
   - [ICCV, 19 Learnable Triangulation of Human Pose](https://github.com/karfly/learnable-triangulation-pytorch)
   - [CVPR, 19. Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views](https://github.com/zju3dv/mvpose)
   - [CVPR, 17. Coarse-to-Fine Volumetric Prediction for Single-Image 3D Human Pose](https://github.com/geopavlakos/c2f-vol-train)
@@ -203,7 +203,7 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
 
   - [ICCV, 19. SMPL-X: A new joint 3D model of the human body, face and hands together](https://github.com/vchoutas/smplx)
   - [CVPR, 17. Learning from Synthetic Humans (SURREAL)](https://github.com/gulvarol/surreal)
-  - [Learning Human Optical Flow](https://github.com/anuragranj/humanflow)
+  - [BMVC, 18. Learning Human Optical Flow](https://github.com/anuragranj/humanflow)
   - [ICCV, 19. Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://github.com/MohameHassan/prox)
     
   </p>
