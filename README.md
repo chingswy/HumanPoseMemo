@@ -166,11 +166,9 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   - [CVPR, 19. Convolutional Mesh Regression for Single-Image Human Shape Reconstruction](https://github.com/nkolot/GraphCMR)
   - [CVPR, 19. Self-Supervised Learning of 3D Human Pose using Multi-view Geometry](https://github.com/mkocabas/EpipolarPose)
   - [CVPR, 19. 3D human pose estimation in video with temporal convolutions and semi-supervised training](https://github.com/facebookresearch/VideoPose3D)
-  - 
   - [ECCV, 18. Integral Human Pose Regression](https://github.com/JimmySuen/integral-human-pose)
   - [CVPR, 18. End-to-end Recovery of Human Shape and Pose](https://github.com/akanazawa/hmr)
   - [CVPR, 18. Ordinal Depth Supervision for 3D Human Pose Estimation](https://github.com/geopavlakos/ordinal-pose3d)
-  - 
   </p>
 </details>
 
@@ -196,7 +194,6 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   - [CVPR, 18.  Learning to Reconstruct People in Clothing from a Single RGB Camera.](https://github.com/thmoa/octopus)
   - [CVPR, 18. Video based reconstruction of 3D people models.](https://github.com/thmoa/videoavatars)
   - [CVPR, 19. Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision](https://github.com/soubhiksanyal/RingNet)
-  - 
   </p>
 </details>
 
