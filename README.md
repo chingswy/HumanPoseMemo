@@ -146,6 +146,28 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   </p>
 </details>
 
+### Other
+<details>
+  <summary><b>2020</b></summary>
+  <p>
+    
+  - [Learning Character-Agnostic Motion for Motion Retargeting in 2D](https://motionretargeting2d.github.io/)
+    Decompose and recompose the video, could be used for motion retrival.
+  </p>
+</details>
+<details>
+  <summary><b>2019</b></summary>
+  <p>
+
+  </p>
+</details>
+<details>
+  <summary><b>2018</b></summary>
+  <p>
+
+  </p>
+</details>
+
 ## Codes
 <details>
   <summary><b>Monocular</b></summary>
@@ -208,6 +230,16 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
     
   </p>
 </details>
+
+## Resources
+<details>
+  <summary><b>Other</b></summary>
+  <p>
+  
+  - [Mixamo](https://www.mixamo.com/#/)
+  </p>
+</details>
+
 
 ## Contribute
 You can also see [Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation), [awesome-3d-human](https://github.com/lijiaman/awesome-3d-human)
