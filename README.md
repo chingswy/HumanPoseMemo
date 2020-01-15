@@ -216,6 +216,7 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   - [CVPR, 18.  Learning to Reconstruct People in Clothing from a Single RGB Camera.](https://github.com/thmoa/octopus)
   - [CVPR, 18. Video based reconstruction of 3D people models.](https://github.com/thmoa/videoavatars)
   - [CVPR, 19. Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision](https://github.com/soubhiksanyal/RingNet)
+  - [ICCV, 19. Multi-Garment Net: Learning to Dress 3D People from Images](https://github.com/bharat-b7/MultiGarmentNetwork)
   </p>
 </details>
 
@@ -223,7 +224,7 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   <summary><b>Other</b></summary>
   <p>
 
-  - [ICCV, 19. SMPL-X: A new joint 3D model of the human body, face and hands together](https://github.com/vchoutas/smplx)
+  - [CVPR, 19. SMPL-X: A new joint 3D model of the human body, face and hands together](https://github.com/vchoutas/smplx)
   - [CVPR, 17. Learning from Synthetic Humans (SURREAL)](https://github.com/gulvarol/surreal)
   - [BMVC, 18. Learning Human Optical Flow](https://github.com/anuragranj/humanflow)
   - [ICCV, 19. Resolving 3D Human Pose Ambiguities with 3D Scene Constraints](https://github.com/MohameHassan/prox)
