@@ -51,7 +51,7 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   </p>
 </details>
 
-### [Dressed datasets](./datasets/dress.md)
+### [Dressed datasets](./data[点击跳转](#jump)sets/dress.md)
 <details>
   <summary><b>related works</b></summary>
   <div align="center">
@@ -64,8 +64,18 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   </p>
 </details>
 
+### Face, Hands and Feet
+<details>
+  <summary><b>related works</b></summary>
+  <p>
+    
+  - [FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape fromSingle RGB Images](https://lmb.informatik.uni-freiburg.de/projects/freihand/)
+  </p>
+</details>
 
 ## Papers
+> note: This section is blank now. I have not worked on this part because I focus on the paper which releases its code. You can find them in [Codes part](#codes).
+
 ### Monocular human pose estimation
 <details>
   <summary><b>2020</b></summary>
