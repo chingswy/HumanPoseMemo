@@ -80,7 +80,7 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
 <details>
   <summary><b>2020</b></summary>
   <p>
-  
+    - [Learning 3D Human Shape and Pose fromDense Body Parts](https://arxiv.org/pdf/1912.13344.pdf)
   </p>
 </details>
 <details>
@@ -146,7 +146,8 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
 <details>
   <summary><b>2019</b></summary>
   <p>
-
+    - [Learning Nonparametric Human Mesh Reconstruction from a Single Image without Ground Truth Meshes](https://arxiv.org/pdf/2003.00052.pdf)：image  => 2D pose + part seg ==Graph-CNN==> mesh
+    - [PeelNet: Textured 3D reconstruction of human body using single view RGB image](https://arxiv.org/pdf/2002.06664.pdf):
   </p>
 </details>
 <details>
