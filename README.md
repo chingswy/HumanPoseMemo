@@ -81,6 +81,7 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   <summary><b>2020</b></summary>
   <p>
 
+  - [Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation](https://arxiv.org/abs/2004.00329):[[code](https://github.com/fabbrimatteo/LoCO)]
   - [Learning 3D Human Shape and Pose fromDense Body Parts](https://arxiv.org/pdf/1912.13344.pdf)
   - [CVPR 20, Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data](https://calciferzh.github.io/publications/zhou2020monocular):[[code](https://github.com/CalciferZh/minimal-hand)]
   - [CVPR 20, Hierarchical Human Parsing with Typed Part-Relation Reasoning](https://github.com/hlzhu09/Hierarchical-Human-Parsing):[[code](https://github.com/hlzhu09/Hierarchical-Human-Parsing)]
