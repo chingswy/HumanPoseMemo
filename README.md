@@ -86,6 +86,7 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   - [CVPR 20, Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data](https://calciferzh.github.io/publications/zhou2020monocular):[[code](https://github.com/CalciferZh/minimal-hand)]
   - [CVPR 20, Hierarchical Human Parsing with Typed Part-Relation Reasoning](https://github.com/hlzhu09/Hierarchical-Human-Parsing):[[code](https://github.com/hlzhu09/Hierarchical-Human-Parsing)]
   - [CVPR 20, VIBE: Video Inference for Human Body Pose and Shape Estimation](https://github.com/mkocabas/VIBE)]
+  - [CVPR 20, 3D Human Mesh Regression with Dense Correspondence](https://arxiv.org/pdf/2006.05734.pdf) [[code]](https://github.com/zengwang430521/DecoMR)
   </p>
 </details>
 <details>
