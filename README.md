@@ -232,8 +232,10 @@ keywords: human, motion, tracking, person, pose
 - HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation
 - The Devil Is in the Details: Delving Into Unbiased Data Processing for Human Pose Estimation
 - Distribution-Aware Coordinate Representation for Human Pose Estimation
+- Combining Detection and Tracking for Human Pose Estimation in Videos
 
 #### monocular 3D pose
+
 - Deep Kinematics Analysis for Monocular 3D Human Pose Estimation
 - Attention Mechanism Exploits Temporal Contexts: Real-Time 3D Human Pose Reconstruction[oral, [code](https://github.com/lrxjason/Attention3DHumanPose)]
 - Weakly-Supervised 3D Human Pose Learning via Multi-View Images in the Wild
@@ -244,27 +246,42 @@ keywords: human, motion, tracking, person, pose
 - [GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models]()[oral]
 - [Generating 3D People in Scenes Without People]()[oral]
 - [Bodies at Rest: 3D Human Pose and Shape Estimation From a Pressure Image Using Synthetic Data]()[oral]
-- Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation
+- [Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation](https://arxiv.org/pdf/1908.05293.pdf)
 - Optical Non-Line-of-Sight Physics-Based 3D Human Pose Estimation
 - UniPose: Unified Human Pose Estimation in Single Images and Videos
 - 3D Human Mesh Regression With Dense Correspondence
 - Three-Dimensional Reconstruction of Human Interactions
+- Sequential 3D Human Pose and Shape Estimation From Point Clouds
+- Object-Occluded Human Shape and Pose Estimation From a Single Color Image[oral]
+- PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation
+- Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation
 
 #### multi view
+
 - ActiveMoCap: Optimized Viewpoint Selection for Active Human Motion Capture
 - Multi-View Neural Human Rendering
 - Fusing Wearable IMUs With Multi-View Images for Human Pose Estimation: A Geometric Approach
 - Cross-View Tracking for Multi-Human 3D Pose Estimation at Over 100 FPS
+- 4D Association Graph for Realtime Multi-Person Motion Capture Using Multiple Video Cameras
+- Deep 3D Capture: Geometry and Reflectance From Sparse Multi-View Images
+- Lightweight Multi-View 3D Pose Estimation Through Camera-Disentangled Representation
 
 #### depth, detailed, cloth
+
 - PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization
 - Self-Supervised Human Depth Estimation From Monocular Videos
 - ARCH: Animatable Reconstruction of Clothed Humans
 - DeepCap: Monocular Human Performance Capture Using Weak Supervision
 - TetraTSDF: 3D Human Reconstruction From a Single Image With a Tetrahedral Outer Shell
 - Learning to Transfer Texture From Clothing Images to 3D Humans
+- TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style[oral]
+- Novel View Synthesis of Dynamic Scenes With Globally Coherent Depths From a Monocular Camera
+- 4D Visualization of Dynamic Events From Unconstrained Multi-View Videos
+- Multi-View Neural Human Rendering
+
 
 #### HH, HO interactions
+
 - Discovering Human Interactions With Novel Objects via Zero-Shot Learning
 - Mixture Dense Regression for Object Detection and Human Pose Estimation
 - VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions
@@ -272,81 +289,52 @@ keywords: human, motion, tracking, person, pose
 - Learning Human-Object Interaction Detection Using Interaction Points
 - Cascaded Human-Object Interaction Recognition
 - GanHand: Predicting Human Grasp Affordances in Multi-Object Scenes
+- Detailed 2D-3D Joint Representation for Human-Object Interaction
 
 #### action, tracking, trajectory, prediction
+
 - Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction
 - Active Vision for Early Recognition of Human Actions
 - Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition
 - [Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction][[code](https://github.com/abduallahmohamed/Social-STGCNN)]
+- Reciprocal Learning Networks for Human Trajectory Prediction
 - PaStaNet: Toward Human Activity Knowledge Engine
 - A Stochastic Conditioning Scheme for Diverse Human Motion Prediction
 - Bayesian Adversarial Human Motion Synthesis[oral]
 - Learning Dynamic Relationships for 3D Human Motion Prediction
 - Context-Aware Human Motion Prediction
+- [Learning a Neural Solver for Multiple Object Tracking]()[oral]
+- Skeleton-Based Action Recognition With Shift Graph Convolutional Network
+- Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition
+
+#### face, hand
+
+- Understanding Human Hands in Contact at Internet Scale
+- AvatarMe: Realistically Renderable 3D Facial Reconstruction “In-the-Wild”
+- Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild
+- Deep Facial Non-Rigid Multi-View Stereo
+- Can Facial Pose and Expression Be Separated With Weak Perspective Camera?
 
 #### dataset
+
 - HUMBI: A Large Multiview Dataset of Human Body Expressions
 - PANDA: A Gigapixel-Level Human-Centric Video Dataset
+- HOnnotate: A Method for 3D Annotation of Hand and Object Poses
 
-#### some interesting papers
+<details>
+  <summary><b>some interesting works</b></summary>
+  <p>
+
 - [End-to-End Camera Calibration for Broadcast Videos]()
 - Transferring Dense Pose to Proximal Animal Classes
-
-
-
-Skeleton-Based Action Recognition With Shift Graph Convolutional Network
-
-
-AvatarMe: Realistically Renderable 3D Facial Reconstruction “In-the-Wild”
-
-Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition
-HOnnotate: A Method for 3D Annotation of Hand and Object Poses
-Cross-View Tracking for Multi-Human 3D Pose Estimation at Over 100 FPS
-Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification
-Dynamic Graph Message Passing Networks
-Learning Human-Object Interaction Detection Using Interaction Points
-Cascaded Human-Object Interaction Recognition
-Learning to Optimize Non-Rigid Tracking
-SuperGlue: Learning Feature Matching With Graph Neural Networks
-Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild
-GanHand: Predicting Human Grasp Affordances in Multi-Object Scenes
-DeepCap: Monocular Human Performance Capture Using Weak Supervision
-
-
-Monocular Real-Time Hand Shape and Motion Capture Using Multi-Modal Data
-Deep Facial Non-Rigid Multi-View Stereo
- 	Lightweight Multi-View 3D Pose Estimation Through Camera-Disentangled Representation
-
-
-
-PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation
-UniPose: Unified Human Pose Estimation in Single Images and Videos
-Minimal Solutions to Relative Pose Estimation From Two Views Sharing a Common Direction With Unknown Focal Length
-3D Human Mesh Regression With Dense Correspondence
-Distribution-Aware Coordinate Representation for Human Pose Estimation[让输出的分布更加正态]
-Can Facial Pose and Expression Be Separated With Weak Perspective Camera?
-Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation
-
-Sequential 3D Human Pose and Shape Estimation From Point Clouds
-TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style[oral]
-Object-Occluded Human Shape and Pose Estimation From a Single Color Image[oral]
-Understanding Human Hands in Contact at Internet Scale
-Detailed 2D-3D Joint Representation for Human-Object Interaction
-#### multi view
- 	4D Association Graph for Realtime Multi-Person Motion Capture Using Multiple Video Cameras
-   	Robust 3D Self-Portraits in Seconds
-    Multi-View Neural Human Rendering
-    Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence
-     	HUMBI: A Large Multiview Dataset of Human Body Expressions
- 	Deep 3D Capture: Geometry and Reflectance From Sparse Multi-View Images
-  [Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation](https://arxiv.org/pdf/1908.05293.pdf)
-  
-#### tracking
-[Learning a Neural Solver for Multiple Object Tracking]()[oral]
-
-###
-Novel View Synthesis of Dynamic Scenes With Globally Coherent Depths From a Monocular Camera
-4D Visualization of Dynamic Events From Unconstrained Multi-View Videos
+- Dynamic Graph Message Passing Networks
+- Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence
+- Learning to Optimize Non-Rigid Tracking
+- SuperGlue: Learning Feature Matching With Graph Neural Networks
+- Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification
+- Minimal Solutions to Relative Pose Estimation From Two Views Sharing a Common Direction With Unknown Focal Length
+  </p>
+</details>
 
 ### ECCV2020
 #### 2D human pose
