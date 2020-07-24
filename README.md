@@ -223,11 +223,137 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   </p>
 </details>
 
+### [CVPR2020](http://cvpr2020.thecvf.com/program/main-conference)
+keywords: human, motion, tracking, person, pose
+
+#### 2D human pose
+- Combining Detection and Tracking for Human Pose Estimation in Videos
+- [MetaFuse: A Pre-trained Fusion Model for Human Pose Estimation](https://arxiv.org/pdf/2003.13239.pdf)
+- HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation
+- The Devil Is in the Details: Delving Into Unbiased Data Processing for Human Pose Estimation
+- Distribution-Aware Coordinate Representation for Human Pose Estimation
+
+#### monocular 3D pose
+- Deep Kinematics Analysis for Monocular 3D Human Pose Estimation
+- Attention Mechanism Exploits Temporal Contexts: Real-Time 3D Human Pose Reconstruction[oral, [code](https://github.com/lrxjason/Attention3DHumanPose)]
+- Weakly-Supervised 3D Human Pose Learning via Multi-View Images in the Wild
+- VIBE: Video Inference for Human Body Pose and Shape Estimation
+- Coherent Reconstruction of Multiple Humans From a Single Image
+- [Self-Supervised 3D Human Pose Estimation via Part Guided Novel Image Synthesis](https://arxiv.org/pdf/2004.04400.pdf)[oral, [project](https://sites.google.com/view/pgp-human)]
+- [Cascaded Deep Monocular 3D Human Pose Estimation With Evolutionary Training Data]()[oral]
+- [GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models]()[oral]
+- [Generating 3D People in Scenes Without People]()[oral]
+- [Bodies at Rest: 3D Human Pose and Shape Estimation From a Pressure Image Using Synthetic Data]()[oral]
+- Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation
+- Optical Non-Line-of-Sight Physics-Based 3D Human Pose Estimation
+- UniPose: Unified Human Pose Estimation in Single Images and Videos
+- 3D Human Mesh Regression With Dense Correspondence
+- Three-Dimensional Reconstruction of Human Interactions
+
+#### multi view
+- ActiveMoCap: Optimized Viewpoint Selection for Active Human Motion Capture
+- Multi-View Neural Human Rendering
+- Fusing Wearable IMUs With Multi-View Images for Human Pose Estimation: A Geometric Approach
+- Cross-View Tracking for Multi-Human 3D Pose Estimation at Over 100 FPS
+
+#### depth, detailed, cloth
+- PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization
+- Self-Supervised Human Depth Estimation From Monocular Videos
+- ARCH: Animatable Reconstruction of Clothed Humans
+- DeepCap: Monocular Human Performance Capture Using Weak Supervision
+- TetraTSDF: 3D Human Reconstruction From a Single Image With a Tetrahedral Outer Shell
+- Learning to Transfer Texture From Clothing Images to 3D Humans
+
+#### HH, HO interactions
+- Discovering Human Interactions With Novel Objects via Zero-Shot Learning
+- Mixture Dense Regression for Object Detection and Human Pose Estimation
+- VSGNet: Spatial Attention Network for Detecting Human Object Interactions Using Graph Convolutions
+- PPDM: Parallel Point Detection and Matching for Real-Time Human-Object Interaction Detection
+- Learning Human-Object Interaction Detection Using Interaction Points
+- Cascaded Human-Object Interaction Recognition
+- GanHand: Predicting Human Grasp Affordances in Multi-Object Scenes
+
+#### action, tracking, trajectory, prediction
+- Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction
+- Active Vision for Early Recognition of Human Actions
+- Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition
+- [Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction][[code](https://github.com/abduallahmohamed/Social-STGCNN)]
+- PaStaNet: Toward Human Activity Knowledge Engine
+- A Stochastic Conditioning Scheme for Diverse Human Motion Prediction
+- Bayesian Adversarial Human Motion Synthesis[oral]
+- Learning Dynamic Relationships for 3D Human Motion Prediction
+- Context-Aware Human Motion Prediction
+
+#### dataset
+- HUMBI: A Large Multiview Dataset of Human Body Expressions
+- PANDA: A Gigapixel-Level Human-Centric Video Dataset
+
+#### some interesting papers
+- [End-to-End Camera Calibration for Broadcast Videos]()
+- Transferring Dense Pose to Proximal Animal Classes
+
+
+
+Skeleton-Based Action Recognition With Shift Graph Convolutional Network
+
+
+AvatarMe: Realistically Renderable 3D Facial Reconstruction “In-the-Wild”
+
+Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition
+HOnnotate: A Method for 3D Annotation of Hand and Object Poses
+Cross-View Tracking for Multi-Human 3D Pose Estimation at Over 100 FPS
+Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification
+Dynamic Graph Message Passing Networks
+Learning Human-Object Interaction Detection Using Interaction Points
+Cascaded Human-Object Interaction Recognition
+Learning to Optimize Non-Rigid Tracking
+SuperGlue: Learning Feature Matching With Graph Neural Networks
+Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild
+GanHand: Predicting Human Grasp Affordances in Multi-Object Scenes
+DeepCap: Monocular Human Performance Capture Using Weak Supervision
+
+
+Monocular Real-Time Hand Shape and Motion Capture Using Multi-Modal Data
+Deep Facial Non-Rigid Multi-View Stereo
+ 	Lightweight Multi-View 3D Pose Estimation Through Camera-Disentangled Representation
+
+
+
+PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation
+UniPose: Unified Human Pose Estimation in Single Images and Videos
+Minimal Solutions to Relative Pose Estimation From Two Views Sharing a Common Direction With Unknown Focal Length
+3D Human Mesh Regression With Dense Correspondence
+Distribution-Aware Coordinate Representation for Human Pose Estimation[让输出的分布更加正态]
+Can Facial Pose and Expression Be Separated With Weak Perspective Camera?
+Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation
+
+Sequential 3D Human Pose and Shape Estimation From Point Clouds
+TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style[oral]
+Object-Occluded Human Shape and Pose Estimation From a Single Color Image[oral]
+Understanding Human Hands in Contact at Internet Scale
+Detailed 2D-3D Joint Representation for Human-Object Interaction
+#### multi view
+ 	4D Association Graph for Realtime Multi-Person Motion Capture Using Multiple Video Cameras
+   	Robust 3D Self-Portraits in Seconds
+    Multi-View Neural Human Rendering
+    Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence
+     	HUMBI: A Large Multiview Dataset of Human Body Expressions
+ 	Deep 3D Capture: Geometry and Reflectance From Sparse Multi-View Images
+  [Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation](https://arxiv.org/pdf/1908.05293.pdf)
+  
+#### tracking
+[Learning a Neural Solver for Multiple Object Tracking]()[oral]
+
+###
+Novel View Synthesis of Dynamic Scenes With Globally Coherent Depths From a Monocular Camera
+4D Visualization of Dynamic Events From Unconstrained Multi-View Videos
+
 ### ECCV2020
 #### 2D human pose
 - [Peeking into occluded joints:A novel framework for crowd pose estimation](https://arxiv.org/pdf/2003.10506.pdf)[[code](https://github.com/opec-gcn/OPEC-GCN)]
 - [Differentiable Hierarchical Graph Grouping forMulti-Person Pose Estimation](https://arxiv.org/pdf/2007.11864.pdf)
 - [Whole-Body Human Pose Estimation in the Wild]()
+- [Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos](https://arxiv.org/pdf/2004.12652.pdf)
 
 #### 3D human pose
 - [Contact and Human Dynamics from Monocular Video](https://arxiv.org/pdf/2007.11678.pdf)
@@ -237,6 +363,9 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
 #### multi-view
 - [Multi-person 3D Pose Estimation in Crowded Scenes Based on Multi-View Geometry](https://arxiv.org/abs/2007.10986)
 - [End-to-End Estimation of Multi-Person 3D Poses from Multiple Cameras](https://arxiv.org/abs/2004.06239)[[code](https://github.com/microsoft/multiperson-pose-estimation-pytorch)]
+
+#### detail human
+- [Combining Implicit Function Learning andParametric Models for 3D HumanReconstruction](https://arxiv.org/pdf/2007.11432.pdf)
 
 <details>
   <summary><b>Other</b></summary>
@@ -248,7 +377,6 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
 - [Long-term Human Motion Prediction with Scene Context]()
 - [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video]()
 - [Appearance Consensus Driven Self-Supervised Human Mesh Recovery]()
-- [Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos]()
 - [End-to-end Dynamic Matching Network for Multi-view Multi-person 3d Pose Estimation]()
   </p>
 </details>
