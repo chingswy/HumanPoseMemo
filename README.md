@@ -224,20 +224,34 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
 </details>
 
 ### ECCV2020
+#### 2D human pose
+- [Peeking into occluded joints:A novel framework for crowd pose estimation](https://arxiv.org/pdf/2003.10506.pdf)[[code](https://github.com/opec-gcn/OPEC-GCN)]
+- [Differentiable Hierarchical Graph Grouping forMulti-Person Pose Estimation](https://arxiv.org/pdf/2007.11864.pdf)
+- [Whole-Body Human Pose Estimation in the Wild]()
+
+#### 3D human pose
+- [Contact and Human Dynamics from Monocular Video](https://arxiv.org/pdf/2007.11678.pdf)
+- [HDNet: Human Depth Estimation for Multi-Person Camera-Space Localization](https://arxiv.org/abs/2007.08943)
+- [HMOR: Hierarchical Multi-person Ordinal Relations for Monocular Multi-Person 3D Pose Estimation]()
+
+#### multi-view
+- [Multi-person 3D Pose Estimation in Crowded Scenes Based on Multi-View Geometry](https://arxiv.org/abs/2007.10986)
+- [End-to-End Estimation of Multi-Person 3D Poses from Multiple Cameras](https://arxiv.org/abs/2004.06239)[[code](https://github.com/microsoft/multiperson-pose-estimation-pytorch)]
+
+<details>
+  <summary><b>Other</b></summary>
+  <p>
+    
 - [Towards Part-aware Monocular 3D Human Pose Estimation: An Architecture Search Approach]()
 - [Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition]()
 - [Adaptive Computationally Efficient Network for Monocular 3D Hand Pose Estimation]()
 - [Long-term Human Motion Prediction with Scene Context]()
 - [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video]()
 - [Appearance Consensus Driven Self-Supervised Human Mesh Recovery]()
-- [Whole-Body Human Pose Estimation in the Wild]()
-- [End-to-End Estimation of Multi-Person 3D Poses from Multiple Cameras]()
-- [HMOR: Hierarchical Multi-person Ordinal Relations for Monocular Multi-Person 3D Pose Estimation]()
-- [Multi-person 3D Pose Estimation in Crowded Scenes Based on Multi-View Geometry]()
-- [Differentiable Hierarchical Graph Grouping for Multi-Person Pose Estimation]()
-- [HDNet: Human Depth Estimation for Multi-Person Camera-Space Localization]()
 - [Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos]()
 - [End-to-end Dynamic Matching Network for Multi-view Multi-person 3d Pose Estimation]()
+  </p>
+</details>
 
 ## Resources
 <details>
