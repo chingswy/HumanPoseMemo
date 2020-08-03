@@ -347,6 +347,7 @@ keywords: human, motion, tracking, person, pose
 - [Contact and Human Dynamics from Monocular Video](https://arxiv.org/pdf/2007.11678.pdf)
 - [HDNet: Human Depth Estimation for Multi-Person Camera-Space Localization](https://arxiv.org/abs/2007.08943)
 - [HMOR: Hierarchical Multi-person Ordinal Relations for Monocular Multi-Person 3D Pose Estimation]()
+- [3D Human Shape and Pose from a Single Low-Resolution Image with Self-Supervised Learning](https://sites.google.com/view/xiangyuxu/3d_eccv20)
 
 #### multi-view
 - [Multi-person 3D Pose Estimation in Crowded Scenes Based on Multi-View Geometry](https://arxiv.org/abs/2007.10986)
