@@ -352,6 +352,7 @@ keywords: human, motion, tracking, person, pose
 #### multi-view
 - [Multi-person 3D Pose Estimation in Crowded Scenes Based on Multi-View Geometry](https://arxiv.org/abs/2007.10986)
 - [End-to-End Estimation of Multi-Person 3D Poses from Multiple Cameras](https://arxiv.org/abs/2004.06239)[[code](https://github.com/microsoft/multiperson-pose-estimation-pytorch)]
+- [Unsupervised Cross-Modal Alignment forMulti-Person 3D Pose Estimation](https://arxiv.org/pdf/2008.01388.pdf)[[project](https://sites.google.com/view/multiperson3D)]
 
 #### detail human
 - [Combining Implicit Function Learning andParametric Models for 3D HumanReconstruction](https://arxiv.org/pdf/2007.11432.pdf)
