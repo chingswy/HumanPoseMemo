@@ -14,10 +14,14 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
 
   - [Leeds Sports Pose Dataset](http://sam.johnson.io/research/lsp.html)
   - [Leeds Sports Pose Extended Training Dataset](http://sam.johnson.io/research/lspet.html)
-  - [coco](http://cocodataset.org/#home)
+  - [COCO](http://cocodataset.org/#home)
   - [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/)
   - [lsp-mpii-ordinal](https://www.seas.upenn.edu/~pavlakos/projects/ordinal/)
   - [AI challenger keypoint dataset](https://challenger.ai/dataset/keypoint)
+  - [CrowdPose](https://github.com/Jeff-sjtu/CrowdPose)
+  - [OCHuman](https://github.com/liruilong940607/OCHumanApi)
+  - [COCO-WholeBody](https://github.com/jin-s13/COCO-WholeBody)
+  - [DensePose](http://densepose.org/)
   </p>
 </details>
 
@@ -48,10 +52,11 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   <p>
 
   - [SURREAL](http://www.di.ens.fr/willow/research/surreal/)
+  - [eft](https://github.com/facebookresearch/eft)
   </p>
 </details>
 
-### [Dressed datasets](./data[点击跳转](#jump)sets/dress.md)
+### [Dressed datasets](./datasets/dress.md)
 <details>
   <summary><b>related works</b></summary>
   <div align="center">
