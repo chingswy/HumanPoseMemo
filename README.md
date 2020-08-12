@@ -353,6 +353,11 @@ keywords: human, motion, tracking, person, pose
 - [HDNet: Human Depth Estimation for Multi-Person Camera-Space Localization](https://arxiv.org/abs/2007.08943)
 - [HMOR: Hierarchical Multi-person Ordinal Relations for Monocular Multi-Person 3D Pose Estimation]()
 - [3D Human Shape and Pose from a Single Low-Resolution Image with Self-Supervised Learning](https://sites.google.com/view/xiangyuxu/3d_eccv20)
+- [I2L-MeshNet: Image-to-Lixel PredictionNetwork for Accurate 3D Human Pose andMesh Estimation from a Single RGB Image](https://arxiv.org/pdf/2008.03713.pdf)[[code](https://github.com/mks0601/I2L-MeshNet_RELEASE)]
+
+#### multi-person 3d
+- [Unsupervised Cross-Modal Alignment for Multi-Person 3D Pose Estimation](https://arxiv.org/pdf/2008.01388.pdf)
+
 
 #### multi-view
 - [Multi-person 3D Pose Estimation in Crowded Scenes Based on Multi-View Geometry](https://arxiv.org/abs/2007.10986)
@@ -361,6 +366,9 @@ keywords: human, motion, tracking, person, pose
 
 #### detail human
 - [Combining Implicit Function Learning andParametric Models for 3D HumanReconstruction](https://arxiv.org/pdf/2007.11432.pdf)
+
+#### HO
+- [Polysemy Deciphering Network for Robust Human-Object InteractionDetection](https://arxiv.org/pdf/2008.02918.pdf)[[code](https://github.com/MuchHair/PD-Net)]
 
 <details>
   <summary><b>Other</b></summary>
