@@ -347,6 +347,7 @@ keywords: human, motion, tracking, person, pose
 - [Differentiable Hierarchical Graph Grouping forMulti-Person Pose Estimation](https://arxiv.org/pdf/2007.11864.pdf)
 - [Whole-Body Human Pose Estimation in the Wild]()
 - [Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos](https://arxiv.org/pdf/2004.12652.pdf)
+- [SimPose: Effectively Learning DensePose andSurface Normals of People from Simulated Data](https://arxiv.org/pdf/2007.15506.pdf)
 
 #### 3D human pose
 - [Contact and Human Dynamics from Monocular Video](https://arxiv.org/pdf/2007.11678.pdf)
@@ -354,6 +355,7 @@ keywords: human, motion, tracking, person, pose
 - [HMOR: Hierarchical Multi-person Ordinal Relations for Monocular Multi-Person 3D Pose Estimation]()
 - [3D Human Shape and Pose from a Single Low-Resolution Image with Self-Supervised Learning](https://sites.google.com/view/xiangyuxu/3d_eccv20)
 - [I2L-MeshNet: Image-to-Lixel PredictionNetwork for Accurate 3D Human Pose andMesh Estimation from a Single RGB Image](https://arxiv.org/pdf/2008.03713.pdf)[[code](https://github.com/mks0601/I2L-MeshNet_RELEASE)]
+- [Full-Body Awareness from Partial Observations](https://arxiv.org/pdf/2008.06046.pdf)
 
 #### multi-person 3d
 - [Unsupervised Cross-Modal Alignment for Multi-Person 3D Pose Estimation](https://arxiv.org/pdf/2008.01388.pdf)
