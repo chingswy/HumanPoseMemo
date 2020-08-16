@@ -52,6 +52,7 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   <p>
 
   - [SURREAL](http://www.di.ens.fr/willow/research/surreal/)
+  - [3DPW]()
   - [eft](https://github.com/facebookresearch/eft)
   </p>
 </details>
@@ -81,23 +82,18 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
 ## Papers
 > note: I don't include some paper without codes.
 
-### Monocular human pose estimation
-<details>
-  <summary><b>2020</b></summary>
-  <p>
+- [Before 2020](#before-2020)
+- [CVPR 2020](#cvpr2020)
+- [ECCV 2020](#eccv2020)
 
-  - [Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation](https://arxiv.org/abs/2004.00329):[[code](https://github.com/fabbrimatteo/LoCO)]
-  - [Learning 3D Human Shape and Pose fromDense Body Parts](https://arxiv.org/pdf/1912.13344.pdf)
-  - [CVPR 20, Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data](https://calciferzh.github.io/publications/zhou2020monocular):[[code](https://github.com/CalciferZh/minimal-hand)]
-  - [CVPR 20, Hierarchical Human Parsing with Typed Part-Relation Reasoning](https://github.com/hlzhu09/Hierarchical-Human-Parsing):[[code](https://github.com/hlzhu09/Hierarchical-Human-Parsing)]
-  - [CVPR 20, VIBE: Video Inference for Human Body Pose and Shape Estimation](https://github.com/mkocabas/VIBE)]
-  - [CVPR 20, 3D Human Mesh Regression with Dense Correspondence](https://arxiv.org/pdf/2006.05734.pdf) [[code]](https://github.com/zengwang430521/DecoMR)
-  </p>
-</details>
+### Before 2020
+
+### Monocular human pose estimation
 <details>
   <summary><b>2019</b></summary>
   <p>
-
+  
+  - [Learning 3D Human Shape and Pose from Dense Body Parts](https://arxiv.org/pdf/1912.13344.pdf)
   - [CVPR, 19. Learning 3D Human Dynamics from Video](https://github.com/akanazawa/human_dynamics)
   - [ICCV, 19. TexturePose: Supervising Human Mesh Estimation with Texture Consistency](https://github.com/geopavlakos/TexturePose)
   - [ICCV, 19. SPIN - SMPL oPtimization IN the loop](https://github.com/nkolot/SPIN)
@@ -126,12 +122,6 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
 
 ### Multi-view human pose estimation
 <details>
-  <summary><b>2020</b></summary>
-  <p>
-
-  </p>
-</details>
-<details>
   <summary><b>2019</b></summary>
   <p>
 
@@ -153,13 +143,7 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
 
 
 ### Detailed human shape reconstruction
-<details>
-  <summary><b>2020</b></summary>
-  <p>
 
-  - [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFuHD/):[[code](https://github.com/shunsukesaito/PIFuHD)]
-  </p>
-</details>
 <details>
   <summary><b>2019</b></summary>
   <p>
@@ -187,14 +171,6 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
 ## Multi-View Stereo
 
 <details>
-  <summary><b>2020</b></summary>
-  <p>
-
-  - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://www.matthewtancik.com/nerf): [[code](https://github.com/bmild/nerf)],[[code-PyTorch](https://github.com/yenchenlin/nerf-pytorch)]
-  </p>
-</details>
-
-<details>
   <summary><b>2019</b></summary>
   <p>
 
@@ -203,14 +179,6 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
 </details>
 
 ### Other
-<details>
-  <summary><b>2020</b></summary>
-  <p>
-    
-  - [Learning Character-Agnostic Motion for Motion Retargeting in 2D](https://motionretargeting2d.github.io/)
-    Decompose and recompose the video, could be used for motion retrival.
-  </p>
-</details>
 <details>
   <summary><b>2019</b></summary>
   <p>
@@ -237,15 +205,20 @@ keywords: human, motion, tracking, person, pose
 - HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation
 - The Devil Is in the Details: Delving Into Unbiased Data Processing for Human Pose Estimation
 - Distribution-Aware Coordinate Representation for Human Pose Estimation
-- Combining Detection and Tracking for Human Pose Estimation in Videos
+- [CVPR 20, Hierarchical Human Parsing with Typed Part-Relation Reasoning](https://github.com/hlzhu09/Hierarchical-Human-Parsing):[[code](https://github.com/hlzhu09/Hierarchical-Human-Parsing)]
 
 #### monocular 3D pose
 
+- [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://github.com/mkocabas/VIBE)]
+- [3D Human Mesh Regression with Dense Correspondence](https://arxiv.org/pdf/2006.05734.pdf) [[code]](https://github.com/zengwang430521/DecoMR)
+- [Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation](https://arxiv.org/abs/2004.00329):[[code](https://github.com/fabbrimatteo/LoCO)]
 - Deep Kinematics Analysis for Monocular 3D Human Pose Estimation
 - Attention Mechanism Exploits Temporal Contexts: Real-Time 3D Human Pose Reconstruction[oral, [code](https://github.com/lrxjason/Attention3DHumanPose)]
 - Weakly-Supervised 3D Human Pose Learning via Multi-View Images in the Wild
-- VIBE: Video Inference for Human Body Pose and Shape Estimation
-- Coherent Reconstruction of Multiple Humans From a Single Image
+- [Coherent Reconstruction of Multiple Humans From a Single Image](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Coherent_Reconstruction_of_Multiple_Humans_From_a_Single_Image_CVPR_2020_paper.pdf)
+
+  [![](README.assets/jiangwen.jpg)](https://jiangwenpl.github.io/multiperson/)
+
 - [Self-Supervised 3D Human Pose Estimation via Part Guided Novel Image Synthesis](https://arxiv.org/pdf/2004.04400.pdf)[oral, [project](https://sites.google.com/view/pgp-human)]
 - [Cascaded Deep Monocular 3D Human Pose Estimation With Evolutionary Training Data]()[oral]
 - [GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models]()[oral]
@@ -254,12 +227,11 @@ keywords: human, motion, tracking, person, pose
 - [Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation](https://arxiv.org/pdf/1908.05293.pdf)
 - Optical Non-Line-of-Sight Physics-Based 3D Human Pose Estimation
 - UniPose: Unified Human Pose Estimation in Single Images and Videos
-- 3D Human Mesh Regression With Dense Correspondence
 - Three-Dimensional Reconstruction of Human Interactions
 - Sequential 3D Human Pose and Shape Estimation From Point Clouds
 - Object-Occluded Human Shape and Pose Estimation From a Single Color Image[oral]
 - PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation
-- Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation
+- [Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data](https://calciferzh.github.io/publications/zhou2020monocular):[[code](https://github.com/CalciferZh/minimal-hand)]
 
 #### multi view
 
@@ -273,7 +245,7 @@ keywords: human, motion, tracking, person, pose
 
 #### depth, detailed, cloth
 
-- PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization
+- [PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFuHD/):[[code](https://github.com/shunsukesaito/PIFuHD)]
 - Self-Supervised Human Depth Estimation From Monocular Videos
 - ARCH: Animatable Reconstruction of Clothed Humans
 - DeepCap: Monocular Human Performance Capture Using Weak Supervision
@@ -338,6 +310,9 @@ keywords: human, motion, tracking, person, pose
 - SuperGlue: Learning Feature Matching With Graph Neural Networks
 - Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification
 - Minimal Solutions to Relative Pose Estimation From Two Views Sharing a Common Direction With Unknown Focal Length
+- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](http://www.matthewtancik.com/nerf): [[code](https://github.com/bmild/nerf)],[[code-PyTorch](https://github.com/yenchenlin/nerf-pytorch)]
+- [Learning Character-Agnostic Motion for Motion Retargeting in 2D](https://motionretargeting2d.github.io/)
+    Decompose and recompose the video, could be used for motion retrival.
   </p>
 </details>
 
