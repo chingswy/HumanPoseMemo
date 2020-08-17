@@ -67,6 +67,7 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
 
   - [3DPeople: Modeling the Geometry of
         Dressed Humans](https://www.albertpumarola.com/research/3DPeople/index.html)
+  - Deep Fashion3D
   </p>
 </details>
 
@@ -331,6 +332,7 @@ keywords: human, motion, tracking, person, pose
 - [3D Human Shape and Pose from a Single Low-Resolution Image with Self-Supervised Learning](https://sites.google.com/view/xiangyuxu/3d_eccv20)
 - [I2L-MeshNet: Image-to-Lixel PredictionNetwork for Accurate 3D Human Pose andMesh Estimation from a Single RGB Image](https://arxiv.org/pdf/2008.03713.pdf)[[code](https://github.com/mks0601/I2L-MeshNet_RELEASE)]
 - [Full-Body Awareness from Partial Observations](https://arxiv.org/pdf/2008.06046.pdf)
+- [Towards Part-aware Monocular 3D Human Pose Estimation: An Architecture Search Approach]()
 
 #### multi-person 3d
 - [Unsupervised Cross-Modal Alignment for Multi-Person 3D Pose Estimation](https://arxiv.org/pdf/2008.01388.pdf)
@@ -341,7 +343,14 @@ keywords: human, motion, tracking, person, pose
 - [End-to-End Estimation of Multi-Person 3D Poses from Multiple Cameras](https://arxiv.org/abs/2004.06239)[[code](https://github.com/microsoft/multiperson-pose-estimation-pytorch)]
 - [Unsupervised Cross-Modal Alignment forMulti-Person 3D Pose Estimation](https://arxiv.org/pdf/2008.01388.pdf)[[project](https://sites.google.com/view/multiperson3D)]
 
-#### detail human
+#### action
+- Decoupling GCN with DropGraph Module for Skeleton-Based Action Recognition
+- Hidden Footprints: Learning ContextualWalkability from 3D Human Trails
+- MotionSqueeze: Neural Motion FeatureLearning for Video Understanding
+- Structure-Aware Human-Action Generation
+
+#### face, hand, detailed human
+- [Self-Supervised Monocular 3D FaceReconstruction by Occlusion-AwareMulti-view Geometry Consistency](https://github.com/jiaxiangshang/MGCNet)
 - [Combining Implicit Function Learning andParametric Models for 3D HumanReconstruction](https://arxiv.org/pdf/2007.11432.pdf)
 
 #### HO
@@ -351,13 +360,21 @@ keywords: human, motion, tracking, person, pose
   <summary><b>Other</b></summary>
   <p>
     
-- [Towards Part-aware Monocular 3D Human Pose Estimation: An Architecture Search Approach]()
+
 - [Human Interaction Learning on 3D Skeleton Point Clouds for Video Violence Recognition]()
 - [Adaptive Computationally Efficient Network for Monocular 3D Hand Pose Estimation]()
 - [Long-term Human Motion Prediction with Scene Context]()
 - [Forecasting Human-Object Interaction: Joint Prediction of Motor Attention and Actions in First Person Video]()
 - [Appearance Consensus Driven Self-Supervised Human Mesh Recovery]()
 - [End-to-end Dynamic Matching Network for Multi-view Multi-person 3d Pose Estimation]()
+- [Deep Graph Matching via BlackboxDifferentiation of Combinatorial Solvers](https://github.com/martius-lab/blackbox-deep-graph-matching)
+- [Accurate Optimization of Weighted NuclearNorm for Non-Rigid Structure from Motion]()
+- [Aligning Videos in Space and Time](http://www.cs.cmu.edu/~spurushw/publication/alignvideos/)
+- [Dense Hybrid Recurrent Multi-view Stereo Netwith Dynamic Consistency Checking](https://github.com/yhw-yhw/D2HC-RMVSNet)
+- DeepSFM: Structure From Motion Via DeepBundle Adjustment
+- [A Consistently Fast and Globally Optimal Solution to the Perspective-n-Point Problem](https://github.com/terzakig/sqpnp)
+- Multi-View Optimization ofLocal Feature Geometry
+- DeepFit: 3D Surface Fitting via Neural NetworkWeighted Least Squares
   </p>
 </details>
 
