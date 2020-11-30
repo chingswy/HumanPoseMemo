@@ -1,0 +1,2 @@
+- [Multiview Supervision By Registration](https://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Multiview_Supervision_By_Registration_WACV_2020_paper.pdf)
+- [Learning Monocular 3D Human Pose Estimation from Multi-view Images](https://arxiv.org/pdf/1803.04775.pdf)
