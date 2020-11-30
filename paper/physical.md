@@ -1,0 +1,3 @@
+- [PhysCap: Physically Plausible Monocular 3D Motion Capture in RealTime](https://arxiv.org/pdf/2008.08880.pdf)
+- [4D Human Body Capture from Egocentric Video via 3D Scene Grounding](https://aptx4869lm.github.io/4DEgocentricBodyCapture/)
+- [Contact and Human Dynamics from Monocular Video](https://arxiv.org/pdf/2007.11678.pdf)
