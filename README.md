@@ -22,6 +22,7 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   - [OCHuman](https://github.com/liruilong940607/OCHumanApi)
   - [COCO-WholeBody](https://github.com/jin-s13/COCO-WholeBody)
   - [DensePose](http://densepose.org/)
+  - [AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual Action](https://arxiv.org/pdf/1705.08421.pdf)
   </p>
 </details>
 
@@ -377,6 +378,13 @@ keywords: human, motion, tracking, person, pose
 - DeepFit: 3D Surface Fitting via Neural NetworkWeighted Least Squares
   </p>
 </details>
+
+### seem to submit to CVPR21
+#### Single
+- [Human Mesh Recovery from Multiple Shots](https://geopavlakos.github.io/multishot/)
+
+#### HO
+- [Reconstructing Hand-Object Interactions in the Wild](https://people.eecs.berkeley.edu/~zhecao/rhoi/)
 
 ## Resources
 <details>
