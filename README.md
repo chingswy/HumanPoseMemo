@@ -26,6 +26,14 @@ Memo about 3D human pose estimation, record of datasets, papers, codes.
   </p>
 </details>
 
+<details>
+  <summary><b>For demo</b></summary>
+  <p>
+    
+   - [XNect Sequences](https://gvv.mpi-inf.mpg.de/projects/XNect/)
+  </p>
+</details>
+
 ### [3D datasets](./datasets/3d.md)
 
 <details>
