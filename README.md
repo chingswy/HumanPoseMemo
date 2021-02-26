@@ -400,6 +400,7 @@ keywords: human, motion, tracking, person, pose
   <p>
   
   - [Mixamo](https://www.mixamo.com/#/)
+  - [fairmotion](https://github.com/facebookresearch/fairmotion): Tools to load, process and visualize motion capture data 
   </p>
 </details>
 
