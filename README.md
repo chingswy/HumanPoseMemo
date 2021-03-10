@@ -394,6 +394,11 @@ keywords: human, motion, tracking, person, pose
 #### HO
 - [Reconstructing Hand-Object Interactions in the Wild](https://people.eecs.berkeley.edu/~zhecao/rhoi/)
 
+### CVPR2021
+
+- [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/pdf/2012.06087.pdf)
+
+
 ## Resources
 <details>
   <summary><b>Other</b></summary>
