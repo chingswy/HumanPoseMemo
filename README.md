@@ -406,6 +406,7 @@ keywords: human, motion, tracking, person, pose
   
   - [Mixamo](https://www.mixamo.com/#/)
   - [fairmotion](https://github.com/facebookresearch/fairmotion): Tools to load, process and visualize motion capture data 
+  - [Deep-motion-editing](https://github.com/DeepMotionEditing/deep-motion-editing): contains code of visualization in blender
   </p>
 </details>
 
