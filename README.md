@@ -388,10 +388,8 @@ keywords: human, motion, tracking, person, pose
 </details>
 
 ### seem to submit to CVPR21
-#### Single
 - [Human Mesh Recovery from Multiple Shots](https://geopavlakos.github.io/multishot/)
-
-#### HO
+- [NeuralHumanFVV: Real-Time Neural Volumetric Human Performance Rendering using RGB Cameras](https://arxiv.org/pdf/2103.07700.pdf)
 - [Reconstructing Hand-Object Interactions in the Wild](https://people.eecs.berkeley.edu/~zhecao/rhoi/)
 
 ### CVPR2021
