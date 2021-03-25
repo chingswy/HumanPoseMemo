@@ -395,7 +395,7 @@ keywords: human, motion, tracking, person, pose
 ### CVPR2021
 
 - [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/pdf/2012.06087.pdf)
-
+- [CVPR21, oral, Learning High Fidelity Depths of Dressed Humansby Watching Social Media Dance Videos](https://arxiv.org/pdf/2103.03319.pdf): self-supervised from TikTok videos to estimate high fidelity depths of dressed humans from a single view image.
 
 ## Resources
 <details>
