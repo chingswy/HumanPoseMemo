@@ -396,6 +396,7 @@ keywords: human, motion, tracking, person, pose
 
 - [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/pdf/2012.06087.pdf)
 - [CVPR21, oral, Learning High Fidelity Depths of Dressed Humansby Watching Social Media Dance Videos](https://arxiv.org/pdf/2103.03319.pdf): self-supervised from TikTok videos to estimate high fidelity depths of dressed humans from a single view image.
+- [CVPR21, Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors](http://virtualhumans.mpi-inf.mpg.de/hps/): 通过IMU与头戴相机，恢复出人在场景中的位置和姿态
 
 ## Resources
 <details>
