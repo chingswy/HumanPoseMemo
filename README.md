@@ -226,9 +226,6 @@ keywords: human, motion, tracking, person, pose
 - Attention Mechanism Exploits Temporal Contexts: Real-Time 3D Human Pose Reconstruction[oral, [code](https://github.com/lrxjason/Attention3DHumanPose)]
 - Weakly-Supervised 3D Human Pose Learning via Multi-View Images in the Wild
 - [Coherent Reconstruction of Multiple Humans From a Single Image](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Coherent_Reconstruction_of_Multiple_Humans_From_a_Single_Image_CVPR_2020_paper.pdf)
-
-  [![](README.assets/jiangwen.jpg)](https://jiangwenpl.github.io/multiperson/)
-
 - [Self-Supervised 3D Human Pose Estimation via Part Guided Novel Image Synthesis](https://arxiv.org/pdf/2004.04400.pdf)[oral, [project](https://sites.google.com/view/pgp-human)]
 - [Cascaded Deep Monocular 3D Human Pose Estimation With Evolutionary Training Data]()[oral]
 - [GHUM & GHUML: Generative 3D Human Shape and Articulated Pose Models]()[oral]
@@ -387,13 +384,59 @@ keywords: human, motion, tracking, person, pose
   </p>
 </details>
 
-### seem to submit to CVPR21
+### submit to CVPR21
 - [Human Mesh Recovery from Multiple Shots](https://geopavlakos.github.io/multishot/)
 - [NeuralHumanFVV: Real-Time Neural Volumetric Human Performance Rendering using RGB Cameras](https://arxiv.org/pdf/2103.07700.pdf)
 - [Reconstructing Hand-Object Interactions in the Wild](https://people.eecs.berkeley.edu/~zhecao/rhoi/)
 
 ### CVPR2021
 
+- [oral, Reconstructing 3D Human Pose by Watching Humans in the Mirror](https://arxiv.org/pdf/2104.00340.pdf) | [Project Page](https://github.com/zju3dv/Mirrored-Human)
+- [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/pdf/2012.15838.pdf) | [Project Page](https://zju3dv.github.io/neuralbody/)
+
+#### 2D Pose
+- [Deep Dual Consecutive Network for Human Pose Estimation](https://arxiv.org/pdf/2103.07254.pdf)
+- [Differentiable Multi-Granularity Human Representation Learning for Instance-Aware Human Semantic Parsing ](https://arxiv.org/pdf/2103.04570.pdf)
+
+#### 3D Pose
+- [oral,  Learning View-Disentangled Human Pose Representation by Contrastive Cross-View Mutual Information Maximization ](https://arxiv.org/pdf/2012.01405.pdf)
+- [Monocular Real-time Full Body Capture with Inter-part Correlations ](https://arxiv.org/pdf/2012.06087.pdf)
+- [End-to-End Human Pose and Mesh Reconstruction with Transformers ](https://arxiv.org/pdf/2012.09760.pdf)
+- [Probabilistic 3D Human Shape and Pose Estimation from Multiple Unconstrained Images in the Wild ](https://arxiv.org/pdf/2103.10978.pdf)
+- [Graph Stacked Hourglass Networks for 3D Human Pose Estimation ](https://arxiv.org/pdf/2103.16385.pdf)
+- [Bilevel Online Adaptation for Out-of-Domain Human Mesh Reconstruction](https://arxiv.org/pdf/2103.16449.pdf)
+- [Semi-supervised Synthesis of High-Resolution Editable Textures for 3D Humans](https://arxiv.org/pdf/2103.17266.pdf)
+- [oral, SimPoE: Simulated Character Control for 3D Human Pose Estimation ](https://arxiv.org/pdf/2104.00683.pdf)
+- [PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation](https://arxiv.org/pdf/2105.02465.pdf)
+
+#### Multi-person
+- [Monocular 3D Multi-Person Pose Estimation by Integrating Top-Down and Bottom-Up Networks](https://arxiv.org/pdf/2104.01797.pdf) | [Code](https://github.com/3dpose/3D-Multi-Person-Pose)
+- [Multi-View Multi-Person 3D Pose Estimation with Plane Sweep Stereo ](https://arxiv.org/pdf/2104.02273.pdf)
+- [Body Meshes as Points ](https://arxiv.org/pdf/2105.02467.pdf)
+- [AGORA: Avatars in Geography Optimized for Regression Analysis](https://arxiv.org/pdf/2104.14643.pdf)
+
+#### Reconstruction
+- [SMPLicit: Topology-aware Generative Model for Clothed People ](https://arxiv.org/abs/2103.06871)
+- [oral, POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture ](https://arxiv.org/pdf/2103.15331.pdf)
+- [oral, SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://arxiv.org/abs/2104.03313)
+- [oral, Pixel Codec Avatars ](https://arxiv.org/pdf/2104.04638.pdf)
+- [SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements ](https://arxiv.org/pdf/2104.07660.pdf)
+- [Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration ](https://arxiv.org/pdf/2104.08160.pdf)
+- [StylePeople: A Generative Model of Fullbody Human Avatars](https://arxiv.org/pdf/2104.08363.pdf)
+- [Temporal Consistency Loss for High Resolution Textured and Clothed 3DHuman Reconstruction from Monocular Video](https://arxiv.org/pdf/2104.09259.pdf)
+- [Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors ](https://arxiv.org/pdf/2105.01859)
+- [LASR: Learning Articulated Shape Reconstruction from a Monocular Video](https://arxiv.org/pdf/2105.02976.pdf) | [Code](https://lasr-google.github.io/)
+
+#### Human-object
+- [oral, HOTR: End-to-End Human-Object Interaction Detection with Transformers](https://arxiv.org/pdf/2104.13682.pdf)
+
+#### Action
+- [We are More than Our Joints: Predicting how 3D Bodies Move](https://arxiv.org/pdf/2012.00619.pdf)
+- [Motion Representations for Articulated Animation ](https://arxiv.org/pdf/2104.11280.pdf) | [Code](https://github.com/snap-research/articulated-animation)
+- [3D Human Action Representation Learning via Cross-View Consistency Pursuit ](https://arxiv.org/pdf/2104.14466.pdf)
+
+#### other
+- [NeRD: Neural 3D Reflection Symmetry Detector](https://arxiv.org/pdf/2105.03211.pdf)
 - [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/pdf/2012.06087.pdf)
 - [CVPR21, oral, Learning High Fidelity Depths of Dressed Humansby Watching Social Media Dance Videos](https://arxiv.org/pdf/2103.03319.pdf): self-supervised from TikTok videos to estimate high fidelity depths of dressed humans from a single view image.
 - [CVPR21, Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors](http://virtualhumans.mpi-inf.mpg.de/hps/): 通过IMU与头戴相机，恢复出人在场景中的位置和姿态
